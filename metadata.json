@@ -1,0 +1,7 @@
+{
+  "name": "Land Area Converter",
+  "description": "Comprehensive Land Area and Measurement Unit Converter for Bihar, Indian regional standards (Dismil, Dhur, Katha, Bigha, Laggi, Jarib, Kadi) and international acreage/hectare standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
